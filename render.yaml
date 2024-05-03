@@ -1,6 +1,6 @@
 databases:
   - name: TODO
-    databaseName: TODO
+    databaseName: todo
     user: mysite
     plan: free
 
