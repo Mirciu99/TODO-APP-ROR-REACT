@@ -1,7 +1,7 @@
 databases:
   - name: todo
     databaseName: todo
-    user: Mirciu
+    user: todo
     plan: free
 
 services:
