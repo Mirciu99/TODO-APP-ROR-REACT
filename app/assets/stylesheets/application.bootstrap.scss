@@ -1,0 +1,16 @@
+@import "bootstrap/scss/bootstrap";
+@import "bootstrap-icons/font/bootstrap-icons";
+
+body {
+  background-color: #000000;
+  background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.custom-height {
+  // min-height: 75vh; /* Ajustează această valoare după necesități */
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
